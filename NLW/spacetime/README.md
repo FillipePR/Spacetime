@@ -1,6 +1,7 @@
 <p align="center">
   <img src=".github/preview.png" alt="demosntração do projeto" width=100%/>
 </p>
+
 ## Projeto
 
 Esse é o porojeto web responsivo de uma capsula do tempo, para registrar os commits do aluno em sua evolução como desenvolvedor.
