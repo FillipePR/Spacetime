@@ -6,9 +6,9 @@
 
 Esse é o porojeto web responsivo de uma capsula do tempo, para registrar os commits do aluno em sua evolução como desenvolvedor.
 
--HTML
--CSS
--Git/Github
+- HTML
+- CSS
+- Git/Github
 
 ## Layout
 Você pode visualizar o layout desse projeto através do
